@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--   must include xmlns tag -->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>CIBS節目：日新粵異</title>
+    <itunes:author>RTHK.HK</itunes:author>
+    <link>https://podcast.rthk.hk/podcast/item.php?pid=1632</link>
+    <itunes:subtitle><![CDATA[節目旨在探索粵語文化的保留及傳承，請來研究粵語文化的學者及來自不同文化產業的嘉賓，探討在港推廣粵語文化的挑戰及機遇。]]></itunes:subtitle>
+    <itunes:summary><![CDATA[節目旨在探索粵語文化的保留及傳承，請來研究粵語文化的學者及來自不同文化產業的嘉賓，探討在港推廣粵語文化的挑戰及機遇。]]></itunes:summary>
+    <description><![CDATA[節目旨在探索粵語文化的保留及傳承，請來研究粵語文化的學者及來自不同文化產業的嘉賓，探討在港推廣粵語文化的挑戰及機遇。]]></description>
+    <language>zh-HK</language>
+    <copyright>Radio Television Hong Kong</copyright>
+    <itunes:owner>
+      <itunes:name>RTHK.HK</itunes:name>
+      <itunes:email>webmaster@rthk.hk</itunes:email>
+    </itunes:owner>
+    <!--   iTunes Browse Podcasts Category -->
+    <itunes:category text="Education">
+      <!--   iTunes Browse Podcasts Subcategory  -->
+      <itunes:category text="Language Courses"/>
+    </itunes:category>
+    <itunes:keywords>RTHK, 香港電台, CIBS節目：日新粵異</itunes:keywords>
+    <itunes:image href="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/9321.png"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title><![CDATA[第五集 粵在書中尋（三）：粵語文學期刊]]></title>
+      <link><![CDATA[https://www.rthk.hk/radio/pth/programme/p1076_cantonese_culture/episode/746320]]></link>
+      <itunes:author>Radio Television Hong Kong</itunes:author>
+      <itunes:subtitle><![CDATA[書寫文字唔再局限於書面語，粵語都可以用嚟寫文章。迴響粵語文學期刊嘅總編輯「山城豬伯」，會喺今集向聽眾介紹香港第一本收錄粵語小說、文章等等嘅粵語文學期刊，認識以粵文書寫嘅文章並討論現時社會大眾對廣東話書籍嘅接受程度。]]></itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/9321.png"></itunes:image>
+      <itunes:summary><![CDATA[書寫文字唔再局限於書面語，粵語都可以用嚟寫文章。迴響粵語文學期刊嘅總編輯「山城豬伯」，會喺今集向聽眾介紹香港第一本收錄粵語小說、文章等等嘅粵語文學期刊，認識以粵文書寫嘅文章並討論現時社會大眾對廣東話書籍嘅接受程度。]]></itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/5.m4a" length="0" type="audio/m4a" />
+      <guid>746320</guid>
+      <pubDate>2021-04-30</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[第四集 粵在書中尋（二）：廣東話文學作品]]></title>
+      <link><![CDATA[https://www.rthk.hk/radio/pth/programme/p1076_cantonese_culture/episode/746320]]></link>
+      <itunes:author>Radio Television Hong Kong</itunes:author>
+      <itunes:subtitle><![CDATA[喺傳統主流文化中，唔少書籍嘅內容都係以書面語嘅形式書寫。近年嚟，以粵語書寫嘅作品似乎亦漸漸冒起，走入大眾嘅視線中。小王子廣東話版翻譯者蔡偉泉先生將會喺今集分享以廣東話翻譯文學作品嘅特色同困難。]]></itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/9321.png"></itunes:image>
+      <itunes:summary><![CDATA[喺傳統主流文化中，唔少書籍嘅內容都係以書面語嘅形式書寫。近年嚟，以粵語書寫嘅作品似乎亦漸漸冒起，走入大眾嘅視線中。小王子廣東話版翻譯者蔡偉泉先生將會喺今集分享以廣東話翻譯文學作品嘅特色同困難。]]></itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/4.m4a" length="0" type="audio/m4a" />
+      <guid>746320</guid>
+      <pubDate>2021-04-30</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[第三集 粵在書中尋（一）：廣東話教材]]></title>
+      <link><![CDATA[https://www.rthk.hk/radio/pth/programme/p1076_cantonese_culture/episode/745018]]></link>
+      <itunes:author>Radio Television Hong Kong</itunes:author>
+      <itunes:subtitle><![CDATA[想學習粵語，但係無從入手？今集我哋邀請咗「冚唪唥粵文讀本計劃」嘅負責人劉擇明先生，向聽眾介紹一個為香港各個族裔、海外港人家庭同埋學習緊廣東話嘅人而設嘅粵語讀本，畀聽眾了解吓廣東話學習教材。]]></itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/9321.png"></itunes:image>
+      <itunes:summary><![CDATA[想學習粵語，但係無從入手？今集我哋邀請咗「冚唪唥粵文讀本計劃」嘅負責人劉擇明先生，向聽眾介紹一個為香港各個族裔、海外港人家庭同埋學習緊廣東話嘅人而設嘅粵語讀本，畀聽眾了解吓廣東話學習教材。]]></itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/3.m4a" length="0" type="audio/m4a" />
+      <guid>745018</guid>
+      <pubDate>2021-04-23</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[第二集 粵拼粵有趣：粵語字典學與問]]></title>
+      <link><![CDATA[https://www.rthk.hk/radio/pth/programme/p1076_cantonese_culture/episode/743652]]></link>
+      <itunes:author>Radio Television Hong Kong</itunes:author>
+      <itunes:subtitle><![CDATA[粵語都有屬於自己嘅字典？每一種語言都有一本字典。作為香港人嘅母語，粵語都有一套鮮為人知嘅網上版本粵語字典。今集邀請咗「粵典」總編輯謝家尉先生分享他對於編寫粵語字典嘅理念同困難，讓聽眾了解粵語，並提高使用粵語嘅興趣。]]></itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/9321.png"></itunes:image>
+      <itunes:summary><![CDATA[粵語都有屬於自己嘅字典？每一種語言都有一本字典。作為香港人嘅母語，粵語都有一套鮮為人知嘅網上版本粵語字典。今集邀請咗「粵典」總編輯謝家尉先生分享他對於編寫粵語字典嘅理念同困難，讓聽眾了解粵語，並提高使用粵語嘅興趣。]]></itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/2.m4a" length="0" type="audio/m4a" />
+      <guid>743652</guid>
+      <pubDate>2021-04-16</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[第一集 粵級挑戰：從語言學角度睇粵語]]></title>
+      <link><![CDATA[https://www.rthk.hk/radio/pth/programme/p1076_cantonese_culture/episode/742264]]></link>
+      <itunes:author>Radio Television Hong Kong</itunes:author>
+      <itunes:subtitle><![CDATA[粵語都可以寫成拼音？英文有Phonics，普通話有普通話拼音，原來粵語都有一套鮮為人知嘅拼音系統。今集邀請咗香港教育大學語言學及現代語言系系主任，錢志安博士，講解由香港語言學學會制定嘅「粵拼」、粵語嘅語言特色，以及介紹學會舉辦嘅粵語朗讀測試，讓聽眾更深入了解粵語喺香港嘅發展。]]></itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/9321.png"></itunes:image>
+      <itunes:summary><![CDATA[粵語都可以寫成拼音？英文有Phonics，普通話有普通話拼音，原來粵語都有一套鮮為人知嘅拼音系統。今集邀請咗香港教育大學語言學及現代語言系系主任，錢志安博士，講解由香港語言學學會制定嘅「粵拼」、粵語嘅語言特色，以及介紹學會舉辦嘅粵語朗讀測試，讓聽眾更深入了解粵語喺香港嘅發展。]]></itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tpnonthealps/cantoneseculture/master/assets/1.m4a" length="0" type="audio/m4a" />
+      <guid>742264</guid>
+      <pubDate>2021-04-09</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
